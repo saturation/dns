@@ -27,5 +27,6 @@ var cnames_active = {
     "logo": "js-org.github.io/logo",
     "radial": "ckgrafico.github.io/radial.js",
     "tagster": "goschevski.github.io/tagster",
-    "zodiac": "indus.github.io/Zodiac"
+    "zodiac": "indus.github.io/Zodiac",
+    "saturation": "http://saturation.github.io/www/"
 }
